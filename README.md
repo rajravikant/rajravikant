@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next JS**
 
-- 💬 Ask me about **react ,node and tailwindcss**
+- 💬 Ask me about **react js,node js and tailwindcss**
 
 - 📫 How to reach me **mailme.ravikantraj@gmail.com**
 
