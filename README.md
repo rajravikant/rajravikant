@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ravikant</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [Bloggers Space](https://github.com/rajravikant/Bloggers-Space)
+- 🔭 I’m currently working on [PostHive](https://github.com/rajravikant/Bloggers-Space)
 
 - 🌱 I’m currently learning **Next JS**
 
