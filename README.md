@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Fitness and Nutrition Mobile App
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Devops**
 
 - 💬 Ask me about **react js,node js and tailwindcss**
 
